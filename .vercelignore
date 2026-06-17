@@ -1,0 +1,13 @@
+# Heavy duplicate / source files not needed by the live page
+Brand Evolution (Standalone).html
+Brand Evolution (standalone-src).html
+uploads/
+scraps/
+*.bak
+.thumbnail
+
+# Raw font sources (WOFF2 versions are deployed instead)
+fonts/*.otf
+
+# Design source files (not web-loadable)
+assets/Products/*.psd

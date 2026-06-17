@@ -1,0 +1,6 @@
+.DS_Store
+*.bak
+.thumbnail
+/tmp/
+node_modules/
+.vercel
